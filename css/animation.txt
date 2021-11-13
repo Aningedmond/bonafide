@@ -1,0 +1,17 @@
+        h2{
+                animation:abc 10s infinite;
+                }
+keyframe abc
+{
+0%{margin-left:100px}
+10%{margin-left:90px}
+20%{margin-left:80px}
+30%{margin-left:70px}
+40%{margin-left:60px}
+50%{margin-left:50ox}
+60%{margin-left:40px}
+70%{margin-left:30px}
+80%{margin-left:20px}
+90%{margin-left:10px}
+100%{margin-left:0px}
+    }
